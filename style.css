@@ -99,7 +99,7 @@ span {
 }
 
 .q_white {
-    color: hsla(0, 0%, 100%, 70%);
+    color: hsla(0, 0%, 100%, 60%);
 }
 
 .p_black {
@@ -107,7 +107,7 @@ span {
 }
 
 .q_black {
-    color: hsla(0, 0%, 0%, 60%);
+    color: hsla(0, 0%, 0%, 50%);
 }
 
 h1 {
